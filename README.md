@@ -42,8 +42,6 @@ The **ft_printf** function reproduces the behavior of the standard `printf`, all
 
 To use **ft_printf** in your project, compile the source files and link them to your application. Here's an example:
 
-### Compilation
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
